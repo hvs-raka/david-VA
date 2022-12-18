@@ -55,7 +55,7 @@ def run_david():
     elif 'joke' in command:  # random joke
         talk(pyjokes.get_joke())
 
-    elif 'lee' in command:  # lee is gay
+    elif 'li' in command:  # lee is gay
         talk("lee is gay.")
 
     elif 'shutdown' in command:  # to turnoff this
