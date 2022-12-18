@@ -39,6 +39,7 @@ def google_search(to_search):
         print(j)
 
 def run_david():
+    talk("Hello welcome back")
     command = take_command()
     print(command)
 
