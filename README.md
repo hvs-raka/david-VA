@@ -1,4 +1,7 @@
 # david-VA
+
+IT CAN BE USED FOR ANY PROJECT IN SCHOOL AND COLLEGE 
+
 A basic python voice assistant
 
 
